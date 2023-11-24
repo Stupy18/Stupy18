@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **stupariubogdan@gmail.com**
 
-- 📄 Know about my experiences trough my LinkedIn Resume:https://www.linkedin.com/in/bogdan-stupariu-a653b02a1/
+- 📄 Know about my experiences (https://drive.google.com/file/d/1EdGAohr1R9hPn4oE7vrCWxRBRwmL1L46/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
