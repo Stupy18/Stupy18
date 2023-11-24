@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **stupariubogdan@gmail.com**
 
-- 📄 Know about my experiences [TBA](TBA)
+- 📄 Know about my experiences trough my LinkedIn Resume:https://www.linkedin.com/in/bogdan-stupariu-a653b02a1/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
