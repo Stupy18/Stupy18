@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **stupariubogdan@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1EdGAohr1R9hPn4oE7vrCWxRBRwmL1L46/view?usp=sharing
+- 📄 Know about my experiences https://drive.google.com/file/d/1x9CDz9DZeh5rY1cw_JXB_waCiGK5xiqw/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
