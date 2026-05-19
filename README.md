@@ -1,17 +1,4 @@
 <h1 align="center">Hi 👋, I'm Stupy</h1>
-<h3 align="center">A passionate Computer-Science 2nd year student</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=stupy18&label=Profile%20views&color=0e75b6&style=flat" alt="stupy18" /> </p>
-
-- 🔭 I’m currently working on **an encripted TCP App**
-
-- 👯 I’m looking to collaborate on **pretty much any Internship Offer**
-
-- 🤝 I’m looking for help with **Advanced Key Encrypting**
-
-- 📫 How to reach me **stupariubogdan@gmail.com**
-
-- 📄 Know about my experiences https://drive.google.com/file/d/1x9CDz9DZeh5rY1cw_JXB_waCiGK5xiqw/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
